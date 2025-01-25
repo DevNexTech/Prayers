@@ -1,4 +1,4 @@
-# The Lord's Prayer
+# ✝️ The Lord's Prayer
 
 **Our Father in heaven,**  
 Hallowed be Your name.  
@@ -19,7 +19,7 @@ The power, and the glory forever.
 
 ---
 
-# Psalm 23
+# ✝️ Psalm 23
 
 **The Lord is my shepherd; I shall not want.**  
 He makes me lie down in green pastures.  
